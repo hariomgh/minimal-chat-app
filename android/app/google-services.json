@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "736307671483",
+    "project_id": "vishwavarta-f6fe4",
+    "storage_bucket": "vishwavarta-f6fe4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736307671483:android:3d4499435b1f72d8ad549e",
+        "android_client_info": {
+          "package_name": "com.example.minimal_chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiEK4i7DGVVdjPLws2QQDfIDj90keH7Vs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
